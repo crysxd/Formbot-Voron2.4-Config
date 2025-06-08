@@ -9,3 +9,5 @@ You can follow the streams and build along, but also keep an eye on the PDF guid
 
 If you plan to buy this kit please consider to use my affiliate link so I get a small kick back :) 
 https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?DIST=RkJCHlg%3D
+
+The kit as I build it comes with:
