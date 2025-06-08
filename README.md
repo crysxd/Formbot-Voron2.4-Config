@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=lysE0Ywv53w&list=PL1fjlNqlUKnUwgfOdnnUz_YEgj1KIZ
 
 You can follow the streams and build along, but also keep an eye on the [PDF guide](https://github.com/crysxd/Voron2.4-Config/blob/main/Build%20Guide.pdf) as I e.g. later in the streams found out something could have been done better. It also goes into more detail on flashing the CB1, M8P and SB2209 and contains a list with things you need to print. You can also use my Orca Project files in the STL folder.
 
+If you want to use my config, please compare your wiring to my [PDF guide](https://github.com/crysxd/Voron2.4-Config/blob/main/Build%20Guide.pdf).
+
 
 If you plan to buy this kit please consider to use my affiliate link so I get a small kick back :) 
 https://www.formbot3d.com/products/voron-24-r2-pro-corexy-3d-printer-kit-with-m8p-cb1-board-and-canbus-wiring-system?DIST=RkJCHlg%3D
