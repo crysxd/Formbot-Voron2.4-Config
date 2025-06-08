@@ -1,3 +1,9 @@
 printer-20*.cfg
 *.bkp
 *.zip
+.DS_STORE
+crowsnest.conf
+KlipperScreen.conf
+mainsail.conf
+timelapse.conf
+sonar.conf
